@@ -1,7 +1,7 @@
 # Hi there, Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></img>
 **How to reach me** 📫
 
-<a href="https://www.linkedin.com/in/eduardocporto/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/eduardocporto/" markdown target = "_ blank">
   <img align="left" alt="Eduardo Porto" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"/>
 </a> 
 
