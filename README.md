@@ -17,7 +17,7 @@
 
 **More about me :man_technologist:** 
 
-- :round_pushpin: Living in Blumenau - Santa Catarina 
+- :round_pushpin: I'm living in Blumenau - Santa Catarina 
 - :office: I’m currently working on Soft Design Web e Desktop
 - :rocket: I’m currently learning JAVA, MySQL, and more.
 - :video_game: Fun fact: I love soccer, Xbox, make a new friend and network.
