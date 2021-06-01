@@ -20,12 +20,13 @@
 - :round_pushpin: Living in Blumenau - Santa Catarina 
 - :office: I’m currently working on Soft Design Web e Desktop
 - :rocket: I’m currently learning JAVA, MySQL, and more.
-- :video_game: Fun fact: I love soccer, Xbox, make a new friend and newtwork.
+- :video_game: Fun fact: I love soccer, Xbox, make a new friend and network.
 
 <br>
 
 
 **Knowledge**  
+
 <code><img height="20" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_microsoft_windows-256.png"></code> Windows Server <br>
 <code><img height="20" src="https://cdn0.iconfinder.com/data/icons/brands-colored-2/192/windows-social-network-brand-logo-256.png"></code> Windows Client <br>
 <img height="20" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/microsoft-office-256.png"></code> Office365 <br>
